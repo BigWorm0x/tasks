@@ -79,4 +79,14 @@ case 3:
 }
 
 
+## while loop
+while (condition) {
+  // code block to be executed
+}
+
+## do while loop
+do {
+  // code block to be executed
+}
+while (condition);
 
