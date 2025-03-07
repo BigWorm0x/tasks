@@ -219,8 +219,10 @@ do {
 ```
 
 #### ** Function:**
+```javascript
 function userName(user)
 {
    console.log(`Hello ${user}`);
 }
+```
 ==> and if i wont excuate function ==> userName("adolf");
