@@ -218,13 +218,9 @@ do {
 } while (j < 5);
 ```
 
----
-
-## **Summary**
-- **Strict Mode:** Enforces stricter rules for cleaner and safer code.
-- **Variables:** Use `var`, `let`, or `const` to declare variables.
-- **Comments:** Use `//` for single-line and `/* ... */` for multi-line comments.
-- **Data Types:** JavaScript has 8 basic data types, including numbers, strings, booleans, objects, arrays, and dates.
-- **Control Structures:** Use `if`, `switch`, `while`, and `do-while` to control the flow of your program.
-
-By mastering these concepts, you can write efficient and maintainable JavaScript code.
+#### ** Function:**
+function userName(user)
+{
+   console.log(`Hello ${user}`);
+}
+==> and if i wont excuate function ==> userName("adolf");
